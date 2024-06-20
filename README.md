@@ -6,7 +6,7 @@ BCA Student
 As a Computer Application & Analytics student, I am eager to secure internship in a variety of fields, including graphic design, web and app development,programming languages such as Java, C/C++,VB.Net , SQL development
 
 
-![Profile Picture]("C:\Users\prisc\Downloads\profile-pic.jpg.jpg") <!-- Adjust the path as necessary -->
+![Profile Picture]("profile-pic.jpg.jpg")
 
 ## Contact Information
 
