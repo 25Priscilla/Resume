@@ -9,9 +9,9 @@
 - **Phone**: 8147202256
 - **Email**: priscilla.25toby@gmail.com
 
-## Setup Instructions
+## Education
 
-1. Clone the repository.
+
 2. Install dependencies: `npm install`.
 3. Start the development server: `npm start`.
 
