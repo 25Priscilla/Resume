@@ -1,5 +1,5 @@
 ## Priscilla Rachel Toby
-## BCA Student
+BCA Student
 
 ## Profile
 
