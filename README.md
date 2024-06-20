@@ -11,9 +11,9 @@ As a Computer Application & Analytics student, I am eager to secure internship i
 - **Email**: priscilla.25toby@gmail.com
 
 ## Education
--Kristu Jayanti College : 2021-2025
+- Kristu Jayanti College : 2021-2025
  Bachelor in Computer Application
--Indian Academy PU College : 2019-2021
+- Indian Academy PU College : 2019-2021
   CSBA
 
 ## Computer Skills
