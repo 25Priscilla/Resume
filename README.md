@@ -11,7 +11,7 @@ As a Computer Application & Analytics student, I am eager to secure internship i
 
 - **Name**: Priscilla Rachel Toby
 - **Phone**: 8147202256
-- **Email**: (mailto:priscilla.25toby@gmail.com)
+- **Email**: (priscilla.25toby@gmail.com)
 - **Website**: (https://www.priscilla.one)
 
 ## Education
