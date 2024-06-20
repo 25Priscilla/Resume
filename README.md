@@ -1,12 +1,10 @@
 ## Priscilla Rachel Toby
 BCA Student
 
+![profile-pic jpg (1)](https://github.com/25Priscilla/my-react-tailwind-app/assets/155515052/91044334-27b7-4e8a-9277-2d9779374f36)
+
 ## Profile
-
 As a Computer Application & Analytics student, I am eager to secure internship in a variety of fields, including graphic design, web and app development,programming languages such as Java, C/C++,VB.Net , SQL development
-
-
-![Profile Picture]("profile-pic.jpg.jpg")
 
 ## Contact Information
 
