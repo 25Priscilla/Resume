@@ -29,5 +29,5 @@ As a Computer Application & Analytics student, I am eager to secure internship i
 
 ## PROJECT
 IV - SEMEMESTER 2024
-Designed and implemented a Windows 11 application to efficiently oversee intricate Ayurvedic medical store operations. The application was developed using the VB.net programming language, with its database hosted on MYSQL Workbench
+Designed and implemented a Windows 11 application to efficiently oversee intricate Ayurvedic medical store operations. The application was developed using the VB.net programming language, with its database hosted on MYSQL .
 
