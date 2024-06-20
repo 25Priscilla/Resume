@@ -1,4 +1,8 @@
-Profile
+## Priscilla Rachel Toby
+## BCA Student
+
+## Profile
+
 As a Computer Application & Analytics student, I am eager to secure internship in a variety of fields, including graphic design, web and app development,programming languages such as Java, C/C++,VB.Net , SQL development
 
 
